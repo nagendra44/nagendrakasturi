@@ -1,0 +1,6 @@
+# Default theme
+Theme = "uBlogger"
+
+[params]
+	# uBlogger theme version
+	Version = "2.0.X"
