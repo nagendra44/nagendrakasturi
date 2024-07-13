@@ -1,20 +1,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Posts on cloudfusionkube</title>
-        <link>https://nagendra44.github.io/nagendrakasturi/posts/</link>
+        <link>http://localhost:1313/nagendrakasturi/posts/</link>
         <description>Recent content in Posts on cloudfusionkube</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
         <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
         <lastBuildDate>Sat, 13 Jul 2024 19:25:21 +0530</lastBuildDate>
-        <atom:link href="https://nagendra44.github.io/nagendrakasturi/posts/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://localhost:1313/nagendrakasturi/posts/index.xml" rel="self" type="application/rss+xml" />
         
         <item>
             <title>Examplepost</title>
-            <link>https://nagendra44.github.io/nagendrakasturi/posts/examplepost/</link>
+            <link>http://localhost:1313/nagendrakasturi/posts/examplepost/</link>
             <pubDate>Sat, 13 Jul 2024 19:25:21 +0530</pubDate>
             
-            <guid>https://nagendra44.github.io/nagendrakasturi/posts/examplepost/</guid>
+            <guid>http://localhost:1313/nagendrakasturi/posts/examplepost/</guid>
             <description></description>
             <content type="html"><![CDATA[]]></content>
         </item>
