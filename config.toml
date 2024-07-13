@@ -1,5 +1,5 @@
 baseurl      = "https://cloudfusionkube.com"
-title        = "cloudfusionkube-theHugoVersion"
+title        = "CloudFusionKube"
 languageCode = "en-us"
 theme        = "hello-friend-ng"
 paginate     = 10
