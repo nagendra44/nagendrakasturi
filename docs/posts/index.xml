@@ -1,20 +1,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Posts on CloudFusionKube</title>
-        <link>http://localhost:1313/posts/</link>
+        <link>https://cloudfusionkube.com/posts/</link>
         <description>Recent content in Posts on CloudFusionKube</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
         <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-        <lastBuildDate>Sat, 13 Jul 2024 19:25:21 +0530</lastBuildDate>
-        <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+        <lastBuildDate>Sat, 13 Jul 2024 20:09:21 +0530</lastBuildDate>
+        <atom:link href="https://cloudfusionkube.com/posts/index.xml" rel="self" type="application/rss+xml" />
         
         <item>
             <title>About</title>
-            <link>http://localhost:1313/posts/newpost/</link>
-            <pubDate>Sat, 13 Jul 2024 19:25:21 +0530</pubDate>
+            <link>https://cloudfusionkube.com/posts/newpost/</link>
+            <pubDate>Sat, 13 Jul 2024 20:09:21 +0530</pubDate>
             
-            <guid>http://localhost:1313/posts/newpost/</guid>
+            <guid>https://cloudfusionkube.com/posts/newpost/</guid>
             <description>CloudFusionKube Welcome to CloudFusionKube, your ultimate resource for mastering cloud technologies!
 About At CloudFusionKube, we bring together the best of Azure, AWS, and GCP with a focus on Kubernetes. Our goal is to empower you with the knowledge and skills needed to navigate and master the complexities of multi-cloud environments. Whether you&amp;rsquo;re a cloud enthusiast, a DevOps professional, or an IT architect, you&amp;rsquo;ll find valuable insights, tutorials, and best practices here.</description>
             <content type="html"><![CDATA[<h1 id="cloudfusionkube">CloudFusionKube</h1>
@@ -32,16 +32,6 @@ About At CloudFusionKube, we bring together the best of Azure, AWS, and GCP with
 <hr>
 <p>© 2024 CloudFusionKube. All rights reserved.</p>
 ]]></content>
-        </item>
-        
-        <item>
-            <title>Examplepost</title>
-            <link>http://localhost:1313/posts/examplepost/</link>
-            <pubDate>Sat, 13 Jul 2024 19:25:21 +0530</pubDate>
-            
-            <guid>http://localhost:1313/posts/examplepost/</guid>
-            <description></description>
-            <content type="html"><![CDATA[]]></content>
         </item>
         
     </channel>

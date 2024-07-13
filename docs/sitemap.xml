@@ -2,30 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/posts/newpost/</loc>
-    <lastmod>2024-07-13T19:25:21+05:30</lastmod>
+    <loc>https://cloudfusionkube.com/tags/about/</loc>
+    <lastmod>2024-07-13T20:09:21+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2024-07-13T19:25:21+05:30</lastmod>
+    <loc>https://cloudfusionkube.com/posts/newpost/</loc>
+    <lastmod>2024-07-13T20:09:21+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/examplepost/</loc>
-    <lastmod>2024-07-13T19:25:21+05:30</lastmod>
+    <loc>https://cloudfusionkube.com/</loc>
+    <lastmod>2024-07-13T20:09:21+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2024-07-13T19:25:21+05:30</lastmod>
+    <loc>https://cloudfusionkube.com/posts/</loc>
+    <lastmod>2024-07-13T20:09:21+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2024-07-13T19:25:21+05:30</lastmod>
+    <loc>https://cloudfusionkube.com/tags/</loc>
+    <lastmod>2024-07-13T20:09:21+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/untagged/</loc>
-    <lastmod>2024-07-13T19:25:21+05:30</lastmod>
+    <loc>https://cloudfusionkube.com/blog/</loc>
   </url><url>
-    <loc>http://localhost:1313/about/newpost/</loc>
-  </url><url>
-    <loc>http://localhost:1313/about/</loc>
-  </url><url>
-    <loc>http://localhost:1313/blog/</loc>
-  </url><url>
-    <loc>http://localhost:1313/series/</loc>
+    <loc>https://cloudfusionkube.com/series/</loc>
   </url>
 </urlset>
