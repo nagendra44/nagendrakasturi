@@ -39,7 +39,7 @@ publishDir = "docs"
     readOtherPosts = "Read other posts"
 
     [languages.en.params.logo]
-      logoText = "_cloudfusionkube~"
+      logoText = "cloudfusionkube~"
       logoHomeLink = ""
     # or
     #

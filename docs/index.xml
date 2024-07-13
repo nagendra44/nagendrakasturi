@@ -11,9 +11,9 @@
     <atom:link href="https://cloudfusionkube.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>https://cloudfusionkube.com/posts/newpost/</link>
+      <link>https://cloudfusionkube.com/posts/about/</link>
       <pubDate>Sat, 13 Jul 2024 20:09:21 +0530</pubDate>
-      <guid>https://cloudfusionkube.com/posts/newpost/</guid>
+      <guid>https://cloudfusionkube.com/posts/about/</guid>
       <description>CloudFusionKube Welcome to CloudFusionKube, your ultimate resource for mastering cloud technologies!&#xA;About At CloudFusionKube, we bring together the best of Azure, AWS, and GCP with a focus on Kubernetes. Our goal is to empower you with the knowledge and skills needed to navigate and master the complexities of multi-cloud environments. Whether you&amp;rsquo;re a cloud enthusiast, a DevOps professional, or an IT architect, you&amp;rsquo;ll find valuable insights, tutorials, and best practices here.</description>
     </item>
   </channel>
